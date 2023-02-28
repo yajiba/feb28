@@ -7,6 +7,10 @@
     <title>Feb 28</title>
 </head>
 <body>
-    
+<table>
+    <tr>
+        <th>HEAD</th>
+    </tr>
+</table>
 </body>
 </html>
