@@ -18,5 +18,10 @@
         <th>HEAD 2</th>
     </tr>
 </table>
+<table>
+    <tr>
+        <th>HEAD 3</th>
+    </tr>
+</table>
 </body>
 </html>
